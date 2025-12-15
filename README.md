@@ -1,6 +1,6 @@
 # Cleaning-discord-bot-commands
 
-THis code is made by [Dave Davidson](https://github.com/richs2101)
+This code is made by [Dave Davidson](https://github.com/richs2101)
 
 
 This is used for cleaning discord bot slash commands. Please note that it'll remove the slash commands. This can be run in Nodejs.
